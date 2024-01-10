@@ -10,3 +10,4 @@ protobuf==3.20.0
 Unidecode==1.0.22
 pillow
 torchaudio==0.13.1
+apex
