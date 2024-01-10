@@ -26,7 +26,7 @@ def create_hparams(hparams_string=None, verbose=False):
         ################################
         load_mel_from_disk=False,
         training_files='train.txt',
-        validation_files='eval.txt',
+        validation_files='val.txt',
 
         ################################
         # Audio Parameters             #
