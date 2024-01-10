@@ -3,7 +3,7 @@ tensorflow==1.15.2
 numpy
 inflect==0.2.5
 librosa==0.6.0
-scipy==1.0.0
+scipy==0.19.1
 Unidecode==1.0.22
 pillow
 torchaudio==0.13.1
