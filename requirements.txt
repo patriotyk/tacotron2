@@ -2,8 +2,11 @@ matplotlib
 tensorflow==1.15.2
 numpy
 inflect==0.2.5
-librosa==0.6.0
+librosa==0.6.2
 scipy==1.7.3
+numba==0.48
+resampy==0.3.0
+protobuf==3.20.0
 Unidecode==1.0.22
 pillow
 torchaudio==0.13.1
