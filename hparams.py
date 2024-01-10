@@ -25,8 +25,8 @@ def create_hparams(hparams_string=None, verbose=False):
         # Data Parameters             #
         ################################
         load_mel_from_disk=False,
-        training_files='filatov6/train.txt',
-        validation_files='filatov6/eval.txt',
+        training_files='train.txt',
+        validation_files='eval.txt',
 
         ################################
         # Audio Parameters             #
